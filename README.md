@@ -1,8 +1,4 @@
-<p align="center">
 
-<img src="./assets/banner.png" width="100%" alt="BiharBusiness Android App"/>
-
-</p>
 
 <h1 align="center">
 📱 BiharBusiness Android App
@@ -84,19 +80,19 @@ The app is powered by a Laravel REST API and built using React + Capacitor for n
 
 <td>
 
-<img src="./screenshots/1.jpeg"/>
+<img src="./Screenshot/1.jpeg"  width="180"/>
 
 </td>
 
 <td>
 
-<img src="./screenshots/2.jpeg"/>
+<img src="./Screenshot/2.jpeg"  width="180"/>
 
 </td>
 
 <td>
 
-<img src="./screenshots/3.jpeg"/>
+<img src="./Screenshot/3.jpeg"  width="180"/>
 
 </td>
 
@@ -106,19 +102,19 @@ The app is powered by a Laravel REST API and built using React + Capacitor for n
 
 <td align="center">
 
+Splash
+
+</td>
+
+<td align="center">
+
 Home
 
 </td>
 
 <td align="center">
 
-Search
-
-</td>
-
-<td align="center">
-
-Business Details
+Listing
 
 </td>
 
@@ -134,19 +130,19 @@ Business Details
 
 <td>
 
-<img src="./screenshots/4.jpeg"/>
+<img src="./Screenshot/4.jpeg"  width="180"/>
 
 </td>
 
 <td>
 
-<img src="./screenshots/5.jpeg"/>
+<img src="./Screenshot/5.jpeg"  width="180"/>
 
 </td>
 
 <td>
 
-<img src="./screenshots/6.jpeg"/>
+<img src="./Screenshot/6.jpeg"  width="180"/>
 
 </td>
 
@@ -162,13 +158,13 @@ Categories
 
 <td align="center">
 
-Razorpay
+Popular Categories
 
 </td>
 
 <td align="center">
 
-Profile
+List
 
 </td>
 
@@ -181,19 +177,19 @@ Profile
 
 <td>
 
-<img src="./screenshots/1.jpeg"/>
+<img src="./Screenshot/7.jpeg"  width="180"/>
 
 </td>
 
 <td>
 
-<img src="./screenshots/2.jpeg"/>
+<img src="./Screenshot/8.jpeg"  width="180"/>
 
 </td>
 
 <td>
 
-<img src="./screenshots/3.jpeg"/>
+<img src="./Screenshot/9.jpeg"  width="180"/>
 
 </td>
 
@@ -203,19 +199,19 @@ Profile
 
 <td align="center">
 
-Home
-
-</td>
-
-<td align="center">
-
 Search
 
 </td>
 
 <td align="center">
 
-Business Details
+Details
+
+</td>
+
+<td align="center">
+
+Jobs
 
 </td>
 
