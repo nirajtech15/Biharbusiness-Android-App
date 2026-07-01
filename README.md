@@ -84,19 +84,19 @@ The app is powered by a Laravel REST API and built using React + Capacitor for n
 
 <td>
 
-<img src="./screenshots/home.png"/>
+<img src="./screenshots/1.jpeg"/>
 
 </td>
 
 <td>
 
-<img src="./screenshots/search.png"/>
+<img src="./screenshots/2.jpeg"/>
 
 </td>
 
 <td>
 
-<img src="./screenshots/business-detail.png"/>
+<img src="./screenshots/3.jpeg"/>
 
 </td>
 
@@ -134,19 +134,19 @@ Business Details
 
 <td>
 
-<img src="./screenshots/categories.png"/>
+<img src="./screenshots/4.jpeg"/>
 
 </td>
 
 <td>
 
-<img src="./screenshots/payment.png"/>
+<img src="./screenshots/5.jpeg"/>
 
 </td>
 
 <td>
 
-<img src="./screenshots/profile.png"/>
+<img src="./screenshots/6.jpeg"/>
 
 </td>
 
@@ -175,7 +175,55 @@ Profile
 </tr>
 
 </table>
+<table>
 
+<tr>
+
+<td>
+
+<img src="./screenshots/1.jpeg"/>
+
+</td>
+
+<td>
+
+<img src="./screenshots/2.jpeg"/>
+
+</td>
+
+<td>
+
+<img src="./screenshots/3.jpeg"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+Home
+
+</td>
+
+<td align="center">
+
+Search
+
+</td>
+
+<td align="center">
+
+Business Details
+
+</td>
+
+</tr>
+
+</table>
+
+---
 ---
 
 # 🏗 Architecture
